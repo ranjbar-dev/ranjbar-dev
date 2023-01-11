@@ -1,16 +1,11 @@
-### Hi there 👋
+### 👋 Hi, I’m Amir ranjbar
+- 👀 I’m interested in golang and crypto
+- 💞️ I’m looking to collaborate on crypto projects
+- 📫 Reach me on telegram https://t.me/AmirRanjbar_78
 
-<!--
-**ranjbar-dev/ranjbar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Langues
+- Golang, Php, Js, Python, Dart
+### Frameworks
+- Laravel, Nuxt js, Docker, EMQTT, Node js, Flutter
+- Interest
+- Crypto and Internet of things
