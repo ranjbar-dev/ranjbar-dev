@@ -1,11 +1,23 @@
-### 👋 Hi, I’m Amir ranjbar
-- 👀 I’m interested in golang and crypto
-- 💞️ I’m looking to collaborate on crypto projects
-- 📫 Reach me on telegram https://t.me/AmirRanjbar_78
+### 👋 Hi, I'm Amir Ranjbar
+- 🌱 I'm passionate about Golang and cryptocurrency.
+- 💞️ I'm looking to collaborate on cryptocurrency projects.
+- 📫 Reach out to me on Telegram: [AmirRanjbar_78](https://t.me/AmirRanjbar_78)
 
-### Programming Langues
-- Golang, Php, Js, Python, Dart
-### Frameworks
-- Laravel, Nuxt js, Docker, EMQTT, Node js, Flutter
-- Interest
-- Crypto and Internet of things
+### 🛠 Programming Languages
+- Golang
+- PHP
+- JavaScript
+- Python
+- Dart
+
+### 🌐 Frameworks & Tools
+- Laravel
+- Nuxt.js
+- Docker
+- EMQTT
+- Node.js
+- Flutter
+
+### 🚀 Interests
+- Cryptocurrency
+- Internet of Things (IoT)
