@@ -19,4 +19,3 @@
 
 ### 🚀 Interests
 - Cryptocurrency
-- Internet of Things (IoT)
