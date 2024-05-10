@@ -1,21 +1,16 @@
-### 👋 Hi, I'm Amir Ranjbar
-- 🌱 I'm passionate about Golang and cryptocurrency.
-- 💞️ I'm looking to collaborate on cryptocurrency projects.
+### Hi, I'm Amir Ranjbar
 
-### 🛠 Programming Languages
+- Software engineer 🗿
+
+### 🛠 Skills 
+
 - Golang
-- PHP
-- JavaScript
-- Python
-- Dart
-
-### 🌐 Frameworks & Tools
-- Laravel
-- Nuxt.js
-- Docker
-- EMQTT
-- Node.js
-- Flutter
+- PHP / Laravel
+- VueJs / NuxtJs 
+- Dart / Flutter 
+- Docker / Docker compose
 
 ### 🚀 Interests
+
 - Cryptocurrency
+- Trading platforms 
