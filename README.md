@@ -1,6 +1,6 @@
-### Hi, I'm Amir Ranjbar
+# Hi
 
-- Software engineer 🗿
+I am Amir Ranjbar, a Software Engineer 🗿
 
 ### 🛠 Skills 
 
